@@ -15,8 +15,8 @@ form.submit(function (e) {
     const user = userName.value;
     const pwd = userPassword.value;
     var mObj = {
-        username:"jyoti",
-        password:12345,
+        username:"kafene",
+        password:kafene,
     };
     if (user === "jyoti" && user !== "" && pwd !== "") {
         console.log("yes");
